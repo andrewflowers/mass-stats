@@ -1,0 +1,662 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta name="search" content="Massachusetts Department of Elementary and Secondary Education" />
+    <style>
+.excelText { 
+mso-number-format:\@;
+ }
+    </style>
+<title>
+	2016 Graduation Rate Statewide Report
+</title></head>
+<!--Start Page Content-->
+
+
+<body>
+
+        
+
+<div id="onecolumn">
+
+
+	<div id="whitebox">
+        <style>
+            #wrapper  {width: 1300px;}
+            #header  {width: 1300px;}
+            #submenu  {width: 1300px;}
+        </style>
+
+        <div id="whiteboxRight">
+            <!--Start Page Content-->
+            <span id="ctl00_ContentPlaceHolder1_lblUtilBarHtml"></span>
+            <span id="ctl00_ContentPlaceHolder1_TitleString"><h1>2016 Graduation Rate Report (DISTRICT) for All Students<br /><span class='em'>4-Year Graduation Rate </span></h1><span class='bold'>NOTES:</span> Graduation rates are not reported for cohort counts fewer than 6 <a href='/help/data.aspx?section=students#gradrate'>More about the data.</a></span>
+
+            <form name="aspnetForm" method="post" action="./gradrates.aspx?export_excel=yes&amp;ctl00%24ContentPlaceHolder1%24cohortYear=2016&amp;ctl00%24ContentPlaceHolder1%24reportType=DISTRICT&amp;ctl00%24ContentPlaceHolder1%24rateType=4-Year%3aREG&amp;ctl00%24ContentPlaceHolder1%24studentGroup=5" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTIzMDA3OTY1MWQYAQUqY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRHcmFkUmF0ZUdyaWRWaWV3DzwrAAwBCAIBZG8Ip/pptO+7HSWnpgwRkGnixGFdqhDQxloNqdeDPUlv" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="62368C5D" />
+</div>
+
+                
+
+                <table border=0 width="1130" class="nav"  >
+                <tr><td colspan="10">
+                    <div>
+	<table class="nav center" cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GradRateGridView" style="border-style:None;border-collapse:collapse;">
+		<tr>
+			<th align="left" valign="middle" scope="col" style="width:250px;">Org Name</th><th align="center" valign="middle" scope="col" style="width:110px;">OrgCode</th><th align="center" valign="middle" scope="col" style="width:110px;"># in Cohort</th><th align="center" valign="middle" scope="col" style="width:110px;">% Graduated</th><th align="center" valign="middle" scope="col" style="width:110px;">% Still in School</th><th align="center" valign="middle" scope="col" style="width:110px;">% Non-Grad Completers</th><th align="center" valign="middle" scope="col" style="width:110px;">% GED</th><th align="center" valign="middle" scope="col" style="width:110px;">% Dropped Out</th><th align="center" valign="middle" scope="col" style="width:110px;">% Permanently Excluded</th>
+		</tr><tr>
+			<td align="left">Abby Kelley Foster Charter Public (District)</td><td align="right" style="mso-number-format:\@">04450000</td><td align="right">      77</td><td align="right">    96.1</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     0.0</td><td align="right">     2.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Abington</td><td align="right" style="mso-number-format:\@">00010000</td><td align="right">     118</td><td align="right">    92.4</td><td align="right">     2.5</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     4.2</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Academy Of the Pacific Rim Charter Public (District)</td><td align="right" style="mso-number-format:\@">04120000</td><td align="right">      56</td><td align="right">    91.1</td><td align="right">     7.1</td><td align="right">     0.0</td><td align="right">     1.8</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Acton-Boxborough</td><td align="right" style="mso-number-format:\@">06000000</td><td align="right">     487</td><td align="right">    96.9</td><td align="right">     2.3</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Adams-Cheshire</td><td align="right" style="mso-number-format:\@">06030000</td><td align="right">      72</td><td align="right">    83.3</td><td align="right">     1.4</td><td align="right">     2.8</td><td align="right">     4.2</td><td align="right">     8.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Advanced Math and Science Academy Charter (District)</td><td align="right" style="mso-number-format:\@">04300000</td><td align="right">     181</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Agawam</td><td align="right" style="mso-number-format:\@">00050000</td><td align="right">     340</td><td align="right">    92.6</td><td align="right">     2.4</td><td align="right">     0.9</td><td align="right">     0.3</td><td align="right">     3.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Amesbury</td><td align="right" style="mso-number-format:\@">00070000</td><td align="right">     175</td><td align="right">    90.9</td><td align="right">     6.3</td><td align="right">     0.6</td><td align="right">     0.6</td><td align="right">     1.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Amherst-Pelham</td><td align="right" style="mso-number-format:\@">06050000</td><td align="right">     235</td><td align="right">    88.9</td><td align="right">     6.4</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     3.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Andover</td><td align="right" style="mso-number-format:\@">00090000</td><td align="right">     454</td><td align="right">    94.3</td><td align="right">     4.8</td><td align="right">     0.0</td><td align="right">     0.4</td><td align="right">     0.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Arlington</td><td align="right" style="mso-number-format:\@">00100000</td><td align="right">     328</td><td align="right">    95.4</td><td align="right">     2.7</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     1.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Ashburnham-Westminster</td><td align="right" style="mso-number-format:\@">06100000</td><td align="right">     171</td><td align="right">    93.0</td><td align="right">     7.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Ashland</td><td align="right" style="mso-number-format:\@">00140000</td><td align="right">     188</td><td align="right">    93.6</td><td align="right">     3.2</td><td align="right">     0.5</td><td align="right">     1.6</td><td align="right">     1.1</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Assabet Valley Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08010000</td><td align="right">     246</td><td align="right">    95.9</td><td align="right">     1.6</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     1.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Athol-Royalston</td><td align="right" style="mso-number-format:\@">06150000</td><td align="right">     112</td><td align="right">    73.2</td><td align="right">    11.6</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">    13.4</td><td align="right">     0.9</td>
+		</tr><tr class="eee">
+			<td align="left">Attleboro</td><td align="right" style="mso-number-format:\@">00160000</td><td align="right">     468</td><td align="right">    85.0</td><td align="right">     8.8</td><td align="right">     0.9</td><td align="right">     0.4</td><td align="right">     4.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Auburn</td><td align="right" style="mso-number-format:\@">00170000</td><td align="right">     161</td><td align="right">    96.9</td><td align="right">     1.2</td><td align="right">     0.6</td><td align="right">     0.6</td><td align="right">     0.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Avon</td><td align="right" style="mso-number-format:\@">00180000</td><td align="right">      48</td><td align="right">    83.3</td><td align="right">     8.3</td><td align="right">     2.1</td><td align="right">     0.0</td><td align="right">     6.3</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Ayer Shirley School District</td><td align="right" style="mso-number-format:\@">06160000</td><td align="right">      93</td><td align="right">    93.5</td><td align="right">     1.1</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     5.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Barnstable</td><td align="right" style="mso-number-format:\@">00200000</td><td align="right">     407</td><td align="right">    82.8</td><td align="right">     6.6</td><td align="right">     2.2</td><td align="right">     0.5</td><td align="right">     7.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Bedford</td><td align="right" style="mso-number-format:\@">00230000</td><td align="right">     218</td><td align="right">    92.7</td><td align="right">     4.6</td><td align="right">     0.0</td><td align="right">     1.4</td><td align="right">     1.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Belchertown</td><td align="right" style="mso-number-format:\@">00240000</td><td align="right">     184</td><td align="right">    91.3</td><td align="right">     2.7</td><td align="right">     0.0</td><td align="right">     3.3</td><td align="right">     2.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Bellingham</td><td align="right" style="mso-number-format:\@">00250000</td><td align="right">     173</td><td align="right">    88.4</td><td align="right">     4.6</td><td align="right">     1.7</td><td align="right">     1.2</td><td align="right">     4.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Belmont</td><td align="right" style="mso-number-format:\@">00260000</td><td align="right">     320</td><td align="right">    96.3</td><td align="right">     1.6</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     0.6</td><td align="right">     0.3</td>
+		</tr><tr>
+			<td align="left">Berkshire Arts and Technology Charter Public (District)</td><td align="right" style="mso-number-format:\@">04140000</td><td align="right">      23</td><td align="right">    91.3</td><td align="right">     8.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Berkshire Hills</td><td align="right" style="mso-number-format:\@">06180000</td><td align="right">     144</td><td align="right">    90.3</td><td align="right">     5.6</td><td align="right">     0.0</td><td align="right">     1.4</td><td align="right">     2.1</td><td align="right">     0.7</td>
+		</tr><tr>
+			<td align="left">Berlin-Boylston</td><td align="right" style="mso-number-format:\@">06200000</td><td align="right">      72</td><td align="right">    91.7</td><td align="right">     5.6</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     2.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Beverly</td><td align="right" style="mso-number-format:\@">00300000</td><td align="right">     362</td><td align="right">    89.5</td><td align="right">     5.8</td><td align="right">     0.3</td><td align="right">     0.8</td><td align="right">     3.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Billerica</td><td align="right" style="mso-number-format:\@">00310000</td><td align="right">     320</td><td align="right">    91.9</td><td align="right">     2.5</td><td align="right">     0.0</td><td align="right">     2.2</td><td align="right">     3.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Blackstone Valley Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08050000</td><td align="right">     289</td><td align="right">    99.3</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Blackstone-Millville</td><td align="right" style="mso-number-format:\@">06220000</td><td align="right">     121</td><td align="right">    94.2</td><td align="right">     4.1</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     0.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Blue Hills Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08060000</td><td align="right">     193</td><td align="right">    97.4</td><td align="right">     2.6</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Boston</td><td align="right" style="mso-number-format:\@">00350000</td><td align="right">    4190</td><td align="right">    72.4</td><td align="right">    15.4</td><td align="right">     0.7</td><td align="right">     1.1</td><td align="right">    10.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Boston Collegiate Charter (District)</td><td align="right" style="mso-number-format:\@">04490000</td><td align="right">      59</td><td align="right">    91.5</td><td align="right">     8.5</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Boston Day and Evening Academy Charter (District)</td><td align="right" style="mso-number-format:\@">04240000</td><td align="right">     153</td><td align="right">     9.8</td><td align="right">    63.4</td><td align="right">     0.7</td><td align="right">     4.6</td><td align="right">    21.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Boston Green Academy Horace Mann Charter School (District)</td><td align="right" style="mso-number-format:\@">04110000</td><td align="right">      64</td><td align="right">    76.6</td><td align="right">    12.5</td><td align="right">     0.0</td><td align="right">     3.1</td><td align="right">     7.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Boston Preparatory Charter Public (District)</td><td align="right" style="mso-number-format:\@">04160000</td><td align="right">      52</td><td align="right">    75.0</td><td align="right">    13.5</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">    11.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Bourne</td><td align="right" style="mso-number-format:\@">00360000</td><td align="right">     151</td><td align="right">    91.4</td><td align="right">     5.3</td><td align="right">     0.7</td><td align="right">     0.0</td><td align="right">     2.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Braintree</td><td align="right" style="mso-number-format:\@">00400000</td><td align="right">     405</td><td align="right">    93.8</td><td align="right">     2.7</td><td align="right">     0.2</td><td align="right">     1.2</td><td align="right">     2.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Bridgewater-Raynham</td><td align="right" style="mso-number-format:\@">06250000</td><td align="right">     370</td><td align="right">    91.1</td><td align="right">     4.9</td><td align="right">     1.1</td><td align="right">     0.0</td><td align="right">     3.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Bristol County Agricultural</td><td align="right" style="mso-number-format:\@">09100000</td><td align="right">     107</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Bristol-Plymouth Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08100000</td><td align="right">     314</td><td align="right">    97.1</td><td align="right">     0.6</td><td align="right">     0.0</td><td align="right">     0.3</td><td align="right">     1.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Brockton</td><td align="right" style="mso-number-format:\@">00440000</td><td align="right">    1323</td><td align="right">    79.1</td><td align="right">     7.9</td><td align="right">     5.5</td><td align="right">     0.0</td><td align="right">     7.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Brookline</td><td align="right" style="mso-number-format:\@">00460000</td><td align="right">     447</td><td align="right">    92.8</td><td align="right">     4.3</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     2.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Burlington</td><td align="right" style="mso-number-format:\@">00480000</td><td align="right">     256</td><td align="right">    95.3</td><td align="right">     3.5</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     0.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Cambridge</td><td align="right" style="mso-number-format:\@">00490000</td><td align="right">     490</td><td align="right">    88.8</td><td align="right">     8.4</td><td align="right">     0.4</td><td align="right">     0.0</td><td align="right">     2.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Canton</td><td align="right" style="mso-number-format:\@">00500000</td><td align="right">     236</td><td align="right">    94.9</td><td align="right">     3.4</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Cape Cod Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08150000</td><td align="right">     154</td><td align="right">    92.9</td><td align="right">     3.9</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     2.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Carver</td><td align="right" style="mso-number-format:\@">00520000</td><td align="right">     107</td><td align="right">    88.8</td><td align="right">     7.5</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     3.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Central Berkshire</td><td align="right" style="mso-number-format:\@">06350000</td><td align="right">     131</td><td align="right">    91.6</td><td align="right">     1.5</td><td align="right">     0.0</td><td align="right">     1.5</td><td align="right">     5.3</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Chelmsford</td><td align="right" style="mso-number-format:\@">00560000</td><td align="right">     433</td><td align="right">    94.5</td><td align="right">     2.3</td><td align="right">     0.9</td><td align="right">     0.0</td><td align="right">     2.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Chelsea</td><td align="right" style="mso-number-format:\@">00570000</td><td align="right">     390</td><td align="right">    59.7</td><td align="right">    12.6</td><td align="right">     3.3</td><td align="right">     2.6</td><td align="right">    21.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Chicopee</td><td align="right" style="mso-number-format:\@">00610000</td><td align="right">     665</td><td align="right">    77.0</td><td align="right">     6.9</td><td align="right">     1.4</td><td align="right">     1.8</td><td align="right">    12.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">City on a Hill Charter Public School Circuit Street (District)</td><td align="right" style="mso-number-format:\@">04370000</td><td align="right">      59</td><td align="right">    69.5</td><td align="right">    23.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     5.1</td><td align="right">     1.7</td>
+		</tr><tr>
+			<td align="left">Clinton</td><td align="right" style="mso-number-format:\@">00640000</td><td align="right">     107</td><td align="right">    91.6</td><td align="right">     4.7</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     2.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Codman Academy Charter Public (District)</td><td align="right" style="mso-number-format:\@">04380000</td><td align="right">      24</td><td align="right">    62.5</td><td align="right">    20.8</td><td align="right">     0.0</td><td align="right">     8.3</td><td align="right">     8.3</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Cohasset</td><td align="right" style="mso-number-format:\@">00650000</td><td align="right">     113</td><td align="right">    98.2</td><td align="right">     0.9</td><td align="right">     0.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Community Charter School of Cambridge (District)</td><td align="right" style="mso-number-format:\@">04360000</td><td align="right">      53</td><td align="right">    92.5</td><td align="right">     3.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.9</td><td align="right">     1.9</td>
+		</tr><tr>
+			<td align="left">Concord-Carlisle</td><td align="right" style="mso-number-format:\@">06400000</td><td align="right">     316</td><td align="right">    97.5</td><td align="right">     2.5</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Danvers</td><td align="right" style="mso-number-format:\@">00710000</td><td align="right">     265</td><td align="right">    93.6</td><td align="right">     2.3</td><td align="right">     0.4</td><td align="right">     0.8</td><td align="right">     3.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Dartmouth</td><td align="right" style="mso-number-format:\@">00720000</td><td align="right">     274</td><td align="right">    89.4</td><td align="right">     5.5</td><td align="right">     0.4</td><td align="right">     1.1</td><td align="right">     2.9</td><td align="right">     0.7</td>
+		</tr><tr class="eee">
+			<td align="left">Dedham</td><td align="right" style="mso-number-format:\@">00730000</td><td align="right">     192</td><td align="right">    91.7</td><td align="right">     4.7</td><td align="right">     0.5</td><td align="right">     0.5</td><td align="right">     2.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Dennis-Yarmouth</td><td align="right" style="mso-number-format:\@">06450000</td><td align="right">     197</td><td align="right">    85.8</td><td align="right">     6.1</td><td align="right">     2.0</td><td align="right">     0.5</td><td align="right">     5.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Dighton-Rehoboth</td><td align="right" style="mso-number-format:\@">06500000</td><td align="right">     213</td><td align="right">    92.5</td><td align="right">     4.7</td><td align="right">     0.9</td><td align="right">     0.5</td><td align="right">     1.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Douglas</td><td align="right" style="mso-number-format:\@">00770000</td><td align="right">     102</td><td align="right">    87.3</td><td align="right">     9.8</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     2.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Dover-Sherborn</td><td align="right" style="mso-number-format:\@">06550000</td><td align="right">     178</td><td align="right">    97.2</td><td align="right">     2.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Dracut</td><td align="right" style="mso-number-format:\@">00790000</td><td align="right">     252</td><td align="right">    93.3</td><td align="right">     2.0</td><td align="right">     0.4</td><td align="right">     0.8</td><td align="right">     3.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Dudley-Charlton Reg</td><td align="right" style="mso-number-format:\@">06580000</td><td align="right">     280</td><td align="right">    91.1</td><td align="right">     3.6</td><td align="right">     1.4</td><td align="right">     0.4</td><td align="right">     3.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Duxbury</td><td align="right" style="mso-number-format:\@">00820000</td><td align="right">     267</td><td align="right">    97.8</td><td align="right">     0.7</td><td align="right">     0.0</td><td align="right">     0.4</td><td align="right">     1.1</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">East Bridgewater</td><td align="right" style="mso-number-format:\@">00830000</td><td align="right">     147</td><td align="right">    95.2</td><td align="right">     0.0</td><td align="right">     1.4</td><td align="right">     0.0</td><td align="right">     3.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">East Longmeadow</td><td align="right" style="mso-number-format:\@">00870000</td><td align="right">     223</td><td align="right">    96.0</td><td align="right">     3.1</td><td align="right">     0.4</td><td align="right">     0.4</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Easthampton</td><td align="right" style="mso-number-format:\@">00860000</td><td align="right">     114</td><td align="right">    87.7</td><td align="right">     4.4</td><td align="right">     0.0</td><td align="right">     1.8</td><td align="right">     6.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Easton</td><td align="right" style="mso-number-format:\@">00880000</td><td align="right">     279</td><td align="right">    96.8</td><td align="right">     2.2</td><td align="right">     0.0</td><td align="right">     0.7</td><td align="right">     0.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Edward M. Kennedy Academy for Health Careers (Horace Mann Charter) (District)</td><td align="right" style="mso-number-format:\@">04520000</td><td align="right">      75</td><td align="right">    86.7</td><td align="right">     6.7</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     5.3</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Essex North Shore Agricultural and Technical School District</td><td align="right" style="mso-number-format:\@">08170000</td><td align="right">     236</td><td align="right">    97.5</td><td align="right">     1.7</td><td align="right">     0.0</td><td align="right">     0.4</td><td align="right">     0.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Everett</td><td align="right" style="mso-number-format:\@">00930000</td><td align="right">     502</td><td align="right">    76.7</td><td align="right">     7.8</td><td align="right">     4.6</td><td align="right">     0.6</td><td align="right">    10.2</td><td align="right">     0.2</td>
+		</tr><tr>
+			<td align="left">Fairhaven</td><td align="right" style="mso-number-format:\@">00940000</td><td align="right">     182</td><td align="right">    91.8</td><td align="right">     3.8</td><td align="right">     0.5</td><td align="right">     0.5</td><td align="right">     3.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Fall River</td><td align="right" style="mso-number-format:\@">00950000</td><td align="right">     679</td><td align="right">    71.7</td><td align="right">     4.9</td><td align="right">     6.0</td><td align="right">     1.6</td><td align="right">    15.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Falmouth</td><td align="right" style="mso-number-format:\@">00960000</td><td align="right">     207</td><td align="right">    87.0</td><td align="right">     3.4</td><td align="right">     0.0</td><td align="right">     3.9</td><td align="right">     5.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Fitchburg</td><td align="right" style="mso-number-format:\@">00970000</td><td align="right">     430</td><td align="right">    74.4</td><td align="right">    10.5</td><td align="right">     3.5</td><td align="right">     1.4</td><td align="right">    10.0</td><td align="right">     0.2</td>
+		</tr><tr>
+			<td align="left">Four Rivers Charter Public (District)</td><td align="right" style="mso-number-format:\@">04130000</td><td align="right">      36</td><td align="right">    86.1</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     8.3</td><td align="right">     5.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Foxborough</td><td align="right" style="mso-number-format:\@">00990000</td><td align="right">     229</td><td align="right">    95.2</td><td align="right">     3.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Foxborough Regional Charter (District)</td><td align="right" style="mso-number-format:\@">04460000</td><td align="right">      64</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Framingham</td><td align="right" style="mso-number-format:\@">01000000</td><td align="right">     534</td><td align="right">    84.8</td><td align="right">     8.2</td><td align="right">     1.9</td><td align="right">     0.2</td><td align="right">     4.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Francis W. Parker Charter Essential (District)</td><td align="right" style="mso-number-format:\@">04780000</td><td align="right">      54</td><td align="right">    85.2</td><td align="right">    14.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Franklin</td><td align="right" style="mso-number-format:\@">01010000</td><td align="right">     419</td><td align="right">    95.7</td><td align="right">     3.6</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Franklin County Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08180000</td><td align="right">     128</td><td align="right">    90.6</td><td align="right">     1.6</td><td align="right">     0.8</td><td align="right">     0.8</td><td align="right">     6.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Freetown-Lakeville</td><td align="right" style="mso-number-format:\@">06650000</td><td align="right">     205</td><td align="right">    91.7</td><td align="right">     4.4</td><td align="right">     1.0</td><td align="right">     0.0</td><td align="right">     2.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Frontier</td><td align="right" style="mso-number-format:\@">06700000</td><td align="right">     104</td><td align="right">    91.3</td><td align="right">     4.8</td><td align="right">     0.0</td><td align="right">     2.9</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Gardner</td><td align="right" style="mso-number-format:\@">01030000</td><td align="right">     173</td><td align="right">    82.7</td><td align="right">     6.4</td><td align="right">     1.2</td><td align="right">     1.7</td><td align="right">     8.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Gateway</td><td align="right" style="mso-number-format:\@">06720000</td><td align="right">      71</td><td align="right">    88.7</td><td align="right">     1.4</td><td align="right">     1.4</td><td align="right">     2.8</td><td align="right">     5.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Georgetown</td><td align="right" style="mso-number-format:\@">01050000</td><td align="right">     103</td><td align="right">    96.1</td><td align="right">     1.9</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Gill-Montague</td><td align="right" style="mso-number-format:\@">06740000</td><td align="right">      66</td><td align="right">    72.7</td><td align="right">     4.5</td><td align="right">     0.0</td><td align="right">     1.5</td><td align="right">    21.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Global Learning Charter Public (District)</td><td align="right" style="mso-number-format:\@">04960000</td><td align="right">      23</td><td align="right">    87.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">    13.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Gloucester</td><td align="right" style="mso-number-format:\@">01070000</td><td align="right">     240</td><td align="right">    86.7</td><td align="right">     4.2</td><td align="right">     0.0</td><td align="right">     1.7</td><td align="right">     7.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Grafton</td><td align="right" style="mso-number-format:\@">01100000</td><td align="right">     220</td><td align="right">    90.9</td><td align="right">     3.6</td><td align="right">     0.5</td><td align="right">     1.4</td><td align="right">     3.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Granby</td><td align="right" style="mso-number-format:\@">01110000</td><td align="right">      75</td><td align="right">    92.0</td><td align="right">     2.7</td><td align="right">     1.3</td><td align="right">     1.3</td><td align="right">     2.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Greater Fall River Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08210000</td><td align="right">     337</td><td align="right">    97.0</td><td align="right">     0.6</td><td align="right">     0.6</td><td align="right">     0.0</td><td align="right">     1.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Greater Lawrence Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08230000</td><td align="right">     318</td><td align="right">    95.9</td><td align="right">     0.9</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     2.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Greater Lowell Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08280000</td><td align="right">     486</td><td align="right">    93.6</td><td align="right">     3.5</td><td align="right">     1.0</td><td align="right">     0.2</td><td align="right">     1.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Greater New Bedford Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08250000</td><td align="right">     528</td><td align="right">    93.2</td><td align="right">     1.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     5.1</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Greenfield</td><td align="right" style="mso-number-format:\@">01140000</td><td align="right">     106</td><td align="right">    72.6</td><td align="right">     6.6</td><td align="right">     0.9</td><td align="right">     1.9</td><td align="right">    17.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Groton-Dunstable</td><td align="right" style="mso-number-format:\@">06730000</td><td align="right">     225</td><td align="right">    97.8</td><td align="right">     0.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Hadley</td><td align="right" style="mso-number-format:\@">01170000</td><td align="right">      53</td><td align="right">    96.2</td><td align="right">     3.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Hamilton-Wenham</td><td align="right" style="mso-number-format:\@">06750000</td><td align="right">     165</td><td align="right">    97.6</td><td align="right">     1.2</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     0.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Hampden Charter School of Science (District)</td><td align="right" style="mso-number-format:\@">04990000</td><td align="right">      35</td><td align="right">    94.3</td><td align="right">     5.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Hampden-Wilbraham</td><td align="right" style="mso-number-format:\@">06800000</td><td align="right">     297</td><td align="right">    94.3</td><td align="right">     1.7</td><td align="right">     0.3</td><td align="right">     0.3</td><td align="right">     3.0</td><td align="right">     0.3</td>
+		</tr><tr class="eee">
+			<td align="left">Hampshire</td><td align="right" style="mso-number-format:\@">06830000</td><td align="right">     134</td><td align="right">    97.8</td><td align="right">     2.2</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Hanover</td><td align="right" style="mso-number-format:\@">01220000</td><td align="right">     205</td><td align="right">    98.5</td><td align="right">     0.5</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Harvard</td><td align="right" style="mso-number-format:\@">01250000</td><td align="right">     104</td><td align="right">    94.2</td><td align="right">     3.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Hatfield</td><td align="right" style="mso-number-format:\@">01270000</td><td align="right">      28</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Haverhill</td><td align="right" style="mso-number-format:\@">01280000</td><td align="right">     497</td><td align="right">    74.4</td><td align="right">     7.4</td><td align="right">     3.0</td><td align="right">     1.0</td><td align="right">    14.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Hingham</td><td align="right" style="mso-number-format:\@">01310000</td><td align="right">     277</td><td align="right">    98.2</td><td align="right">     1.4</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Holbrook</td><td align="right" style="mso-number-format:\@">01330000</td><td align="right">      83</td><td align="right">    83.1</td><td align="right">     7.2</td><td align="right">     0.0</td><td align="right">     1.2</td><td align="right">     8.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Holliston</td><td align="right" style="mso-number-format:\@">01360000</td><td align="right">     219</td><td align="right">    93.2</td><td align="right">     4.1</td><td align="right">     0.9</td><td align="right">     0.5</td><td align="right">     1.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Holyoke</td><td align="right" style="mso-number-format:\@">01370000</td><td align="right">     462</td><td align="right">    62.1</td><td align="right">    11.0</td><td align="right">     5.2</td><td align="right">     3.2</td><td align="right">    18.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Hopedale</td><td align="right" style="mso-number-format:\@">01380000</td><td align="right">      84</td><td align="right">    92.9</td><td align="right">     4.8</td><td align="right">     1.2</td><td align="right">     0.0</td><td align="right">     1.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Hopkinton</td><td align="right" style="mso-number-format:\@">01390000</td><td align="right">     308</td><td align="right">    98.4</td><td align="right">     1.0</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     0.3</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Hudson</td><td align="right" style="mso-number-format:\@">01410000</td><td align="right">     199</td><td align="right">    88.9</td><td align="right">     5.5</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     4.0</td><td align="right">     0.5</td>
+		</tr><tr class="eee">
+			<td align="left">Hull</td><td align="right" style="mso-number-format:\@">01420000</td><td align="right">      90</td><td align="right">    80.0</td><td align="right">    13.3</td><td align="right">     1.1</td><td align="right">     0.0</td><td align="right">     5.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Innovation Academy Charter (District)</td><td align="right" style="mso-number-format:\@">04350000</td><td align="right">      80</td><td align="right">    88.8</td><td align="right">     8.8</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     1.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Ipswich</td><td align="right" style="mso-number-format:\@">01440000</td><td align="right">     134</td><td align="right">    94.0</td><td align="right">     2.2</td><td align="right">     0.7</td><td align="right">     0.7</td><td align="right">     2.2</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">King Philip</td><td align="right" style="mso-number-format:\@">06900000</td><td align="right">     374</td><td align="right">    94.9</td><td align="right">     2.7</td><td align="right">     0.8</td><td align="right">     0.3</td><td align="right">     1.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">KIPP Academy Lynn Charter (District)</td><td align="right" style="mso-number-format:\@">04290000</td><td align="right">      77</td><td align="right">    88.3</td><td align="right">     7.8</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     2.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Lawrence</td><td align="right" style="mso-number-format:\@">01490000</td><td align="right">     919</td><td align="right">    71.4</td><td align="right">    11.9</td><td align="right">     5.3</td><td align="right">     0.8</td><td align="right">    10.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Lee</td><td align="right" style="mso-number-format:\@">01500000</td><td align="right">      65</td><td align="right">    87.7</td><td align="right">     6.2</td><td align="right">     0.0</td><td align="right">     3.1</td><td align="right">     3.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Leicester</td><td align="right" style="mso-number-format:\@">01510000</td><td align="right">     116</td><td align="right">    85.3</td><td align="right">     9.5</td><td align="right">     0.9</td><td align="right">     1.7</td><td align="right">     2.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Lenox</td><td align="right" style="mso-number-format:\@">01520000</td><td align="right">      43</td><td align="right">    95.3</td><td align="right">     4.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Leominster</td><td align="right" style="mso-number-format:\@">01530000</td><td align="right">     412</td><td align="right">    88.1</td><td align="right">     5.3</td><td align="right">     1.9</td><td align="right">     1.0</td><td align="right">     3.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Lexington</td><td align="right" style="mso-number-format:\@">01550000</td><td align="right">     545</td><td align="right">    96.1</td><td align="right">     2.9</td><td align="right">     0.0</td><td align="right">     0.4</td><td align="right">     0.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Lincoln-Sudbury</td><td align="right" style="mso-number-format:\@">06950000</td><td align="right">     395</td><td align="right">    95.7</td><td align="right">     4.1</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Littleton</td><td align="right" style="mso-number-format:\@">01580000</td><td align="right">     112</td><td align="right">    94.6</td><td align="right">     5.4</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Longmeadow</td><td align="right" style="mso-number-format:\@">01590000</td><td align="right">     260</td><td align="right">    96.9</td><td align="right">     2.7</td><td align="right">     0.0</td><td align="right">     0.4</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Lowell</td><td align="right" style="mso-number-format:\@">01600000</td><td align="right">     755</td><td align="right">    78.8</td><td align="right">     9.9</td><td align="right">     3.6</td><td align="right">     2.0</td><td align="right">     5.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Lowell Middlesex Academy Charter (District)</td><td align="right" style="mso-number-format:\@">04580000</td><td align="right">      42</td><td align="right">    19.0</td><td align="right">    33.3</td><td align="right">     0.0</td><td align="right">    19.0</td><td align="right">    28.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Ludlow</td><td align="right" style="mso-number-format:\@">01610000</td><td align="right">     198</td><td align="right">    93.4</td><td align="right">     3.5</td><td align="right">     0.0</td><td align="right">     0.5</td><td align="right">     2.5</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Lunenburg</td><td align="right" style="mso-number-format:\@">01620000</td><td align="right">      99</td><td align="right">    92.9</td><td align="right">     5.1</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Lynn</td><td align="right" style="mso-number-format:\@">01630000</td><td align="right">    1143</td><td align="right">    75.3</td><td align="right">     9.5</td><td align="right">     1.3</td><td align="right">     1.6</td><td align="right">    12.2</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Lynnfield</td><td align="right" style="mso-number-format:\@">01640000</td><td align="right">     165</td><td align="right">    98.8</td><td align="right">     0.6</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Ma Academy for Math and Science</td><td align="right" style="mso-number-format:\@">04680000</td><td align="right">      47</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Malden</td><td align="right" style="mso-number-format:\@">01650000</td><td align="right">     467</td><td align="right">    82.9</td><td align="right">     9.0</td><td align="right">     1.5</td><td align="right">     1.5</td><td align="right">     5.1</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Manchester Essex Regional</td><td align="right" style="mso-number-format:\@">06980000</td><td align="right">     115</td><td align="right">    97.4</td><td align="right">     0.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     0.9</td>
+		</tr><tr>
+			<td align="left">Mansfield</td><td align="right" style="mso-number-format:\@">01670000</td><td align="right">     316</td><td align="right">    97.5</td><td align="right">     1.3</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Marblehead</td><td align="right" style="mso-number-format:\@">01680000</td><td align="right">     265</td><td align="right">    95.5</td><td align="right">     2.6</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     1.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Marlborough</td><td align="right" style="mso-number-format:\@">01700000</td><td align="right">     254</td><td align="right">    85.0</td><td align="right">     9.1</td><td align="right">     2.4</td><td align="right">     0.0</td><td align="right">     3.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Marshfield</td><td align="right" style="mso-number-format:\@">01710000</td><td align="right">     313</td><td align="right">    95.8</td><td align="right">     2.5</td><td align="right">     0.3</td><td align="right">     0.3</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Martha&#39;s Vineyard</td><td align="right" style="mso-number-format:\@">07000000</td><td align="right">     173</td><td align="right">    90.2</td><td align="right">     5.8</td><td align="right">     0.6</td><td align="right">     0.6</td><td align="right">     2.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Martha&#39;s Vineyard Charter (District)</td><td align="right" style="mso-number-format:\@">04660000</td><td align="right">       7</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Masconomet</td><td align="right" style="mso-number-format:\@">07050000</td><td align="right">     368</td><td align="right">    96.5</td><td align="right">     2.2</td><td align="right">     0.0</td><td align="right">     0.5</td><td align="right">     0.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Mashpee</td><td align="right" style="mso-number-format:\@">01720000</td><td align="right">     104</td><td align="right">    88.5</td><td align="right">     6.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     4.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Massachusetts Virtual Academy at Greenfield Commonwealth Virtual District</td><td align="right" style="mso-number-format:\@">39010000</td><td align="right">      45</td><td align="right">    40.0</td><td align="right">    24.4</td><td align="right">     0.0</td><td align="right">     6.7</td><td align="right">    28.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">MATCH Charter Public School (District)</td><td align="right" style="mso-number-format:\@">04690000</td><td align="right">      61</td><td align="right">    63.9</td><td align="right">    32.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     3.3</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Maynard</td><td align="right" style="mso-number-format:\@">01740000</td><td align="right">      86</td><td align="right">    86.0</td><td align="right">     4.7</td><td align="right">     3.5</td><td align="right">     1.2</td><td align="right">     3.5</td><td align="right">     1.2</td>
+		</tr><tr class="eee">
+			<td align="left">Medfield</td><td align="right" style="mso-number-format:\@">01750000</td><td align="right">     235</td><td align="right">    98.3</td><td align="right">     0.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Medford</td><td align="right" style="mso-number-format:\@">01760000</td><td align="right">     372</td><td align="right">    80.4</td><td align="right">    11.8</td><td align="right">     1.1</td><td align="right">     2.4</td><td align="right">     4.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Medway</td><td align="right" style="mso-number-format:\@">01770000</td><td align="right">     214</td><td align="right">    95.3</td><td align="right">     3.3</td><td align="right">     0.0</td><td align="right">     0.5</td><td align="right">     0.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Melrose</td><td align="right" style="mso-number-format:\@">01780000</td><td align="right">     245</td><td align="right">    94.7</td><td align="right">     3.3</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     2.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Mendon-Upton</td><td align="right" style="mso-number-format:\@">07100000</td><td align="right">     168</td><td align="right">    93.5</td><td align="right">     3.6</td><td align="right">     1.2</td><td align="right">     0.0</td><td align="right">     1.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Methuen</td><td align="right" style="mso-number-format:\@">01810000</td><td align="right">     491</td><td align="right">    86.6</td><td align="right">     4.3</td><td align="right">     2.4</td><td align="right">     1.0</td><td align="right">     5.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Middleborough</td><td align="right" style="mso-number-format:\@">01820000</td><td align="right">     227</td><td align="right">    93.0</td><td align="right">     1.8</td><td align="right">     0.4</td><td align="right">     0.0</td><td align="right">     4.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Milford</td><td align="right" style="mso-number-format:\@">01850000</td><td align="right">     274</td><td align="right">    83.9</td><td align="right">     5.1</td><td align="right">     0.7</td><td align="right">     0.7</td><td align="right">     9.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Millbury</td><td align="right" style="mso-number-format:\@">01860000</td><td align="right">     104</td><td align="right">    96.2</td><td align="right">     2.9</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Millis</td><td align="right" style="mso-number-format:\@">01870000</td><td align="right">     100</td><td align="right">    93.0</td><td align="right">     2.0</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     4.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Milton</td><td align="right" style="mso-number-format:\@">01890000</td><td align="right">     237</td><td align="right">    94.5</td><td align="right">     4.6</td><td align="right">     0.0</td><td align="right">     0.4</td><td align="right">     0.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Minuteman Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08300000</td><td align="right">     158</td><td align="right">    88.0</td><td align="right">     9.5</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     1.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Mohawk Trail</td><td align="right" style="mso-number-format:\@">07170000</td><td align="right">      83</td><td align="right">    81.9</td><td align="right">     6.0</td><td align="right">     0.0</td><td align="right">     4.8</td><td align="right">     7.2</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Monomoy Regional School District</td><td align="right" style="mso-number-format:\@">07120000</td><td align="right">     118</td><td align="right">    86.4</td><td align="right">     5.9</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     6.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Monson</td><td align="right" style="mso-number-format:\@">01910000</td><td align="right">      92</td><td align="right">    95.7</td><td align="right">     2.2</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     2.2</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Montachusett Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08320000</td><td align="right">     345</td><td align="right">    98.6</td><td align="right">     1.2</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Mount Greylock</td><td align="right" style="mso-number-format:\@">07150000</td><td align="right">      81</td><td align="right">    92.6</td><td align="right">     3.7</td><td align="right">     0.0</td><td align="right">     2.5</td><td align="right">     1.2</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Mystic Valley Regional Charter (District)</td><td align="right" style="mso-number-format:\@">04700000</td><td align="right">     104</td><td align="right">    99.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Nantucket</td><td align="right" style="mso-number-format:\@">01970000</td><td align="right">     128</td><td align="right">    82.0</td><td align="right">    11.7</td><td align="right">     1.6</td><td align="right">     0.0</td><td align="right">     4.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Narragansett</td><td align="right" style="mso-number-format:\@">07200000</td><td align="right">     100</td><td align="right">    84.0</td><td align="right">     6.0</td><td align="right">     3.0</td><td align="right">     1.0</td><td align="right">     6.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Nashoba</td><td align="right" style="mso-number-format:\@">07250000</td><td align="right">     276</td><td align="right">    94.2</td><td align="right">     1.1</td><td align="right">     0.4</td><td align="right">     1.1</td><td align="right">     3.3</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Nashoba Valley Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08520000</td><td align="right">     156</td><td align="right">    96.8</td><td align="right">     1.3</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Natick</td><td align="right" style="mso-number-format:\@">01980000</td><td align="right">     383</td><td align="right">    97.9</td><td align="right">     1.6</td><td align="right">     0.3</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Nauset</td><td align="right" style="mso-number-format:\@">06600000</td><td align="right">     255</td><td align="right">    92.2</td><td align="right">     6.3</td><td align="right">     0.8</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Needham</td><td align="right" style="mso-number-format:\@">01990000</td><td align="right">     418</td><td align="right">    97.1</td><td align="right">     2.4</td><td align="right">     0.0</td><td align="right">     0.2</td><td align="right">     0.0</td><td align="right">     0.2</td>
+		</tr><tr>
+			<td align="left">New Bedford</td><td align="right" style="mso-number-format:\@">02010000</td><td align="right">     622</td><td align="right">    60.1</td><td align="right">    13.2</td><td align="right">     8.2</td><td align="right">     1.4</td><td align="right">    17.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">New Liberty Charter School of Salem (District)</td><td align="right" style="mso-number-format:\@">04670000</td><td align="right">      26</td><td align="right">    11.5</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">    11.5</td><td align="right">    76.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Newburyport</td><td align="right" style="mso-number-format:\@">02040000</td><td align="right">     181</td><td align="right">    95.6</td><td align="right">     3.3</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     0.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Newton</td><td align="right" style="mso-number-format:\@">02070000</td><td align="right">     962</td><td align="right">    97.3</td><td align="right">     2.4</td><td align="right">     0.1</td><td align="right">     0.0</td><td align="right">     0.1</td><td align="right">     0.1</td>
+		</tr><tr>
+			<td align="left">Norfolk County Agricultural</td><td align="right" style="mso-number-format:\@">09150000</td><td align="right">     112</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">North Adams</td><td align="right" style="mso-number-format:\@">02090000</td><td align="right">     121</td><td align="right">    81.0</td><td align="right">     9.1</td><td align="right">     0.8</td><td align="right">     0.8</td><td align="right">     8.3</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">North Andover</td><td align="right" style="mso-number-format:\@">02110000</td><td align="right">     341</td><td align="right">    94.4</td><td align="right">     3.2</td><td align="right">     1.2</td><td align="right">     0.3</td><td align="right">     0.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">North Attleborough</td><td align="right" style="mso-number-format:\@">02120000</td><td align="right">     300</td><td align="right">    94.0</td><td align="right">     3.0</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     2.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">North Brookfield</td><td align="right" style="mso-number-format:\@">02150000</td><td align="right">      39</td><td align="right">    92.3</td><td align="right">     5.1</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     2.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">North Middlesex</td><td align="right" style="mso-number-format:\@">07350000</td><td align="right">     250</td><td align="right">    92.8</td><td align="right">     4.0</td><td align="right">     1.2</td><td align="right">     0.4</td><td align="right">     1.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">North Reading</td><td align="right" style="mso-number-format:\@">02170000</td><td align="right">     200</td><td align="right">    93.0</td><td align="right">     4.0</td><td align="right">     0.0</td><td align="right">     0.5</td><td align="right">     2.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Northampton</td><td align="right" style="mso-number-format:\@">02100000</td><td align="right">     237</td><td align="right">    92.4</td><td align="right">     1.7</td><td align="right">     1.7</td><td align="right">     1.7</td><td align="right">     2.5</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Northampton-Smith Vocational Agricultural</td><td align="right" style="mso-number-format:\@">04060000</td><td align="right">     105</td><td align="right">    93.3</td><td align="right">     1.9</td><td align="right">     3.8</td><td align="right">     1.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Northboro-Southboro</td><td align="right" style="mso-number-format:\@">07300000</td><td align="right">     376</td><td align="right">    95.7</td><td align="right">     1.6</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     2.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Northbridge</td><td align="right" style="mso-number-format:\@">02140000</td><td align="right">     148</td><td align="right">    91.2</td><td align="right">     2.0</td><td align="right">     0.0</td><td align="right">     0.7</td><td align="right">     6.1</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Northeast Metropolitan Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08530000</td><td align="right">     294</td><td align="right">    96.6</td><td align="right">     2.4</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Northern Berkshire Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08510000</td><td align="right">     122</td><td align="right">    96.7</td><td align="right">     1.6</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     0.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Norton</td><td align="right" style="mso-number-format:\@">02180000</td><td align="right">     191</td><td align="right">    93.7</td><td align="right">     3.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     2.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Norwell</td><td align="right" style="mso-number-format:\@">02190000</td><td align="right">     165</td><td align="right">    97.6</td><td align="right">     1.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Norwood</td><td align="right" style="mso-number-format:\@">02200000</td><td align="right">     276</td><td align="right">    93.1</td><td align="right">     2.9</td><td align="right">     0.0</td><td align="right">     0.4</td><td align="right">     3.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Old Colony Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08550000</td><td align="right">     141</td><td align="right">    97.2</td><td align="right">     0.7</td><td align="right">     0.7</td><td align="right">     0.0</td><td align="right">     1.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Old Rochester</td><td align="right" style="mso-number-format:\@">07400000</td><td align="right">     191</td><td align="right">    94.8</td><td align="right">     2.6</td><td align="right">     0.5</td><td align="right">     0.0</td><td align="right">     2.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Oxford</td><td align="right" style="mso-number-format:\@">02260000</td><td align="right">     125</td><td align="right">    88.8</td><td align="right">     4.8</td><td align="right">     3.2</td><td align="right">     0.8</td><td align="right">     2.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Palmer</td><td align="right" style="mso-number-format:\@">02270000</td><td align="right">     113</td><td align="right">    84.1</td><td align="right">     7.1</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     8.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Pathfinder Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08600000</td><td align="right">     147</td><td align="right">    90.5</td><td align="right">     4.1</td><td align="right">     2.0</td><td align="right">     0.7</td><td align="right">     2.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Paulo Freire Social Justice Charter School (District)</td><td align="right" style="mso-number-format:\@">35010000</td><td align="right">      58</td><td align="right">    77.6</td><td align="right">    22.4</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Peabody</td><td align="right" style="mso-number-format:\@">02290000</td><td align="right">     448</td><td align="right">    86.6</td><td align="right">     7.6</td><td align="right">     0.2</td><td align="right">     0.9</td><td align="right">     4.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Pembroke</td><td align="right" style="mso-number-format:\@">02310000</td><td align="right">     238</td><td align="right">    95.4</td><td align="right">     0.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     3.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Pentucket</td><td align="right" style="mso-number-format:\@">07450000</td><td align="right">     189</td><td align="right">    90.5</td><td align="right">     3.7</td><td align="right">     0.0</td><td align="right">     2.6</td><td align="right">     3.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Phoenix Academy Public Charter High School Springfield (District)</td><td align="right" style="mso-number-format:\@">35080000</td><td align="right">      55</td><td align="right">     9.1</td><td align="right">    38.2</td><td align="right">     0.0</td><td align="right">     1.8</td><td align="right">    50.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Phoenix Charter Academy (District)</td><td align="right" style="mso-number-format:\@">04930000</td><td align="right">      80</td><td align="right">    21.3</td><td align="right">    12.5</td><td align="right">     0.0</td><td align="right">     5.0</td><td align="right">    61.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Pioneer Charter School of Science (District)</td><td align="right" style="mso-number-format:\@">04940000</td><td align="right">      55</td><td align="right">    96.4</td><td align="right">     1.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Pioneer Valley</td><td align="right" style="mso-number-format:\@">07500000</td><td align="right">      62</td><td align="right">    96.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     3.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Pioneer Valley Performing Arts Charter Public (District)</td><td align="right" style="mso-number-format:\@">04790000</td><td align="right">      68</td><td align="right">    92.6</td><td align="right">     4.4</td><td align="right">     0.0</td><td align="right">     2.9</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Pittsfield</td><td align="right" style="mso-number-format:\@">02360000</td><td align="right">     434</td><td align="right">    81.8</td><td align="right">     6.2</td><td align="right">     0.9</td><td align="right">     1.4</td><td align="right">     9.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Plymouth</td><td align="right" style="mso-number-format:\@">02390000</td><td align="right">     633</td><td align="right">    89.6</td><td align="right">     4.9</td><td align="right">     0.6</td><td align="right">     1.3</td><td align="right">     3.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Prospect Hill Academy Charter (District)</td><td align="right" style="mso-number-format:\@">04870000</td><td align="right">      78</td><td align="right">    92.3</td><td align="right">     7.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Quabbin</td><td align="right" style="mso-number-format:\@">07530000</td><td align="right">     204</td><td align="right">    85.8</td><td align="right">     5.9</td><td align="right">     0.0</td><td align="right">     2.0</td><td align="right">     6.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Quaboag Regional</td><td align="right" style="mso-number-format:\@">07780000</td><td align="right">      93</td><td align="right">    89.2</td><td align="right">     8.6</td><td align="right">     0.0</td><td align="right">     2.2</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Quincy</td><td align="right" style="mso-number-format:\@">02430000</td><td align="right">     716</td><td align="right">    90.4</td><td align="right">     4.6</td><td align="right">     0.3</td><td align="right">     0.8</td><td align="right">     3.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Ralph C Mahar</td><td align="right" style="mso-number-format:\@">07550000</td><td align="right">     186</td><td align="right">    79.0</td><td align="right">     9.1</td><td align="right">     0.5</td><td align="right">     3.2</td><td align="right">     8.1</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Randolph</td><td align="right" style="mso-number-format:\@">02440000</td><td align="right">     206</td><td align="right">    81.1</td><td align="right">    10.7</td><td align="right">     2.4</td><td align="right">     1.9</td><td align="right">     3.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Reading</td><td align="right" style="mso-number-format:\@">02460000</td><td align="right">     322</td><td align="right">    97.5</td><td align="right">     1.2</td><td align="right">     0.0</td><td align="right">     0.3</td><td align="right">     0.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Revere</td><td align="right" style="mso-number-format:\@">02480000</td><td align="right">     494</td><td align="right">    78.7</td><td align="right">     7.5</td><td align="right">     3.0</td><td align="right">     1.0</td><td align="right">     9.5</td><td align="right">     0.2</td>
+		</tr><tr>
+			<td align="left">Rising Tide Charter Public (District)</td><td align="right" style="mso-number-format:\@">04830000</td><td align="right">      41</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Rockland</td><td align="right" style="mso-number-format:\@">02510000</td><td align="right">     144</td><td align="right">    88.2</td><td align="right">     8.3</td><td align="right">     0.0</td><td align="right">     0.7</td><td align="right">     2.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Rockport</td><td align="right" style="mso-number-format:\@">02520000</td><td align="right">      80</td><td align="right">    93.8</td><td align="right">     1.3</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     3.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Sabis International Charter (District)</td><td align="right" style="mso-number-format:\@">04410000</td><td align="right">     110</td><td align="right">    96.4</td><td align="right">     0.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.8</td><td align="right">     0.9</td>
+		</tr><tr>
+			<td align="left">Salem</td><td align="right" style="mso-number-format:\@">02580000</td><td align="right">     272</td><td align="right">    83.1</td><td align="right">     8.5</td><td align="right">     1.5</td><td align="right">     0.7</td><td align="right">     6.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Salem Academy Charter (District)</td><td align="right" style="mso-number-format:\@">04850000</td><td align="right">      47</td><td align="right">    87.2</td><td align="right">    10.6</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     2.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Sandwich</td><td align="right" style="mso-number-format:\@">02610000</td><td align="right">     176</td><td align="right">    92.0</td><td align="right">     3.4</td><td align="right">     1.7</td><td align="right">     0.0</td><td align="right">     2.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Saugus</td><td align="right" style="mso-number-format:\@">02620000</td><td align="right">     191</td><td align="right">    86.4</td><td align="right">     3.7</td><td align="right">     0.0</td><td align="right">     1.6</td><td align="right">     8.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Scituate</td><td align="right" style="mso-number-format:\@">02640000</td><td align="right">     217</td><td align="right">    94.9</td><td align="right">     4.6</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Seekonk</td><td align="right" style="mso-number-format:\@">02650000</td><td align="right">     156</td><td align="right">    91.7</td><td align="right">     5.8</td><td align="right">     0.0</td><td align="right">     1.9</td><td align="right">     0.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Sharon</td><td align="right" style="mso-number-format:\@">02660000</td><td align="right">     332</td><td align="right">    94.6</td><td align="right">     3.0</td><td align="right">     0.0</td><td align="right">     1.2</td><td align="right">     1.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Shawsheen Valley Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08710000</td><td align="right">     337</td><td align="right">    99.1</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Shrewsbury</td><td align="right" style="mso-number-format:\@">02710000</td><td align="right">     413</td><td align="right">    95.2</td><td align="right">     3.1</td><td align="right">     0.2</td><td align="right">     0.7</td><td align="right">     0.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Silver Lake</td><td align="right" style="mso-number-format:\@">07600000</td><td align="right">     289</td><td align="right">    97.9</td><td align="right">     0.7</td><td align="right">     0.0</td><td align="right">     0.7</td><td align="right">     0.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Sizer School: A North Central Charter Essential (District)</td><td align="right" style="mso-number-format:\@">04740000</td><td align="right">      34</td><td align="right">    58.8</td><td align="right">    23.5</td><td align="right">     0.0</td><td align="right">     5.9</td><td align="right">    11.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Somerset Berkley Regional School District</td><td align="right" style="mso-number-format:\@">07630000</td><td align="right">     240</td><td align="right">    95.8</td><td align="right">     0.4</td><td align="right">     0.0</td><td align="right">     1.3</td><td align="right">     2.5</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Somerville</td><td align="right" style="mso-number-format:\@">02740000</td><td align="right">     335</td><td align="right">    81.5</td><td align="right">     6.9</td><td align="right">     0.3</td><td align="right">     0.6</td><td align="right">    10.4</td><td align="right">     0.3</td>
+		</tr><tr class="eee">
+			<td align="left">South Hadley</td><td align="right" style="mso-number-format:\@">02780000</td><td align="right">     141</td><td align="right">    93.6</td><td align="right">     2.1</td><td align="right">     0.7</td><td align="right">     0.0</td><td align="right">     3.5</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">South Middlesex Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08290000</td><td align="right">     164</td><td align="right">    93.9</td><td align="right">     2.4</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     3.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">South Shore Charter Public (District)</td><td align="right" style="mso-number-format:\@">04880000</td><td align="right">      40</td><td align="right">   100.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">South Shore Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08730000</td><td align="right">     143</td><td align="right">    93.7</td><td align="right">     2.8</td><td align="right">     0.0</td><td align="right">     0.7</td><td align="right">     2.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Southbridge</td><td align="right" style="mso-number-format:\@">02770000</td><td align="right">     146</td><td align="right">    71.2</td><td align="right">     5.5</td><td align="right">     7.5</td><td align="right">     1.4</td><td align="right">    14.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Southeastern Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08720000</td><td align="right">     301</td><td align="right">    97.0</td><td align="right">     1.0</td><td align="right">     0.3</td><td align="right">     0.7</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Southern Berkshire</td><td align="right" style="mso-number-format:\@">07650000</td><td align="right">      59</td><td align="right">    94.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     5.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Southern Worcester County Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08760000</td><td align="right">     261</td><td align="right">    94.3</td><td align="right">     1.9</td><td align="right">     0.8</td><td align="right">     0.4</td><td align="right">     2.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Southwick-Tolland-Granville Regional School District</td><td align="right" style="mso-number-format:\@">07660000</td><td align="right">     164</td><td align="right">    90.9</td><td align="right">     1.8</td><td align="right">     0.0</td><td align="right">     1.2</td><td align="right">     6.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Spencer-E Brookfield</td><td align="right" style="mso-number-format:\@">07670000</td><td align="right">     112</td><td align="right">    73.2</td><td align="right">    10.7</td><td align="right">     0.9</td><td align="right">     2.7</td><td align="right">    12.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Springfield</td><td align="right" style="mso-number-format:\@">02810000</td><td align="right">    1739</td><td align="right">    68.8</td><td align="right">     8.6</td><td align="right">     5.9</td><td align="right">     1.6</td><td align="right">    15.0</td><td align="right">     0.1</td>
+		</tr><tr>
+			<td align="left">Stoneham</td><td align="right" style="mso-number-format:\@">02840000</td><td align="right">     155</td><td align="right">    91.6</td><td align="right">     4.5</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     3.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Stoughton</td><td align="right" style="mso-number-format:\@">02850000</td><td align="right">     259</td><td align="right">    90.7</td><td align="right">     3.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     5.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Sturgis Charter Public (District)</td><td align="right" style="mso-number-format:\@">04890000</td><td align="right">     200</td><td align="right">    97.5</td><td align="right">     2.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Sutton</td><td align="right" style="mso-number-format:\@">02900000</td><td align="right">     113</td><td align="right">    94.7</td><td align="right">     2.7</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     1.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Swampscott</td><td align="right" style="mso-number-format:\@">02910000</td><td align="right">     169</td><td align="right">    93.5</td><td align="right">     4.1</td><td align="right">     0.0</td><td align="right">     0.6</td><td align="right">     1.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Swansea</td><td align="right" style="mso-number-format:\@">02920000</td><td align="right">     133</td><td align="right">    91.0</td><td align="right">     3.0</td><td align="right">     1.5</td><td align="right">     0.0</td><td align="right">     4.5</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Tantasqua</td><td align="right" style="mso-number-format:\@">07700000</td><td align="right">     294</td><td align="right">    93.5</td><td align="right">     4.1</td><td align="right">     0.3</td><td align="right">     0.3</td><td align="right">     1.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Taunton</td><td align="right" style="mso-number-format:\@">02930000</td><td align="right">     497</td><td align="right">    88.7</td><td align="right">     4.8</td><td align="right">     1.6</td><td align="right">     0.0</td><td align="right">     4.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">TEC Connections Academy Commonwealth Virtual School District</td><td align="right" style="mso-number-format:\@">39020000</td><td align="right">     138</td><td align="right">    31.2</td><td align="right">    26.8</td><td align="right">     0.0</td><td align="right">    12.3</td><td align="right">    29.7</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Tewksbury</td><td align="right" style="mso-number-format:\@">02950000</td><td align="right">     257</td><td align="right">    92.6</td><td align="right">     2.3</td><td align="right">     0.0</td><td align="right">     1.9</td><td align="right">     3.1</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Tri County Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08780000</td><td align="right">     227</td><td align="right">    96.0</td><td align="right">     0.9</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     2.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Triton</td><td align="right" style="mso-number-format:\@">07730000</td><td align="right">     184</td><td align="right">    89.7</td><td align="right">     2.7</td><td align="right">     2.7</td><td align="right">     2.2</td><td align="right">     2.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Tyngsborough</td><td align="right" style="mso-number-format:\@">03010000</td><td align="right">     134</td><td align="right">    94.0</td><td align="right">     3.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     2.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Upper Cape Cod Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08790000</td><td align="right">     164</td><td align="right">    99.4</td><td align="right">     0.6</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Uxbridge</td><td align="right" style="mso-number-format:\@">03040000</td><td align="right">     151</td><td align="right">    82.1</td><td align="right">     7.9</td><td align="right">     1.3</td><td align="right">     1.3</td><td align="right">     7.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Wachusett</td><td align="right" style="mso-number-format:\@">07750000</td><td align="right">     551</td><td align="right">    95.1</td><td align="right">     1.5</td><td align="right">     0.4</td><td align="right">     0.4</td><td align="right">     2.7</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Wakefield</td><td align="right" style="mso-number-format:\@">03050000</td><td align="right">     257</td><td align="right">    96.1</td><td align="right">     1.9</td><td align="right">     0.4</td><td align="right">     0.8</td><td align="right">     0.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Walpole</td><td align="right" style="mso-number-format:\@">03070000</td><td align="right">     298</td><td align="right">    95.0</td><td align="right">     3.7</td><td align="right">     0.0</td><td align="right">     0.3</td><td align="right">     1.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Waltham</td><td align="right" style="mso-number-format:\@">03080000</td><td align="right">     357</td><td align="right">    84.6</td><td align="right">     7.3</td><td align="right">     2.2</td><td align="right">     0.6</td><td align="right">     5.3</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Ware</td><td align="right" style="mso-number-format:\@">03090000</td><td align="right">      68</td><td align="right">    76.5</td><td align="right">     2.9</td><td align="right">     0.0</td><td align="right">     4.4</td><td align="right">    16.2</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Wareham</td><td align="right" style="mso-number-format:\@">03100000</td><td align="right">     174</td><td align="right">    76.4</td><td align="right">     8.6</td><td align="right">     1.7</td><td align="right">     0.0</td><td align="right">    13.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Watertown</td><td align="right" style="mso-number-format:\@">03140000</td><td align="right">     187</td><td align="right">    85.6</td><td align="right">     7.0</td><td align="right">     0.5</td><td align="right">     0.0</td><td align="right">     7.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Wayland</td><td align="right" style="mso-number-format:\@">03150000</td><td align="right">     232</td><td align="right">    97.4</td><td align="right">     1.7</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Webster</td><td align="right" style="mso-number-format:\@">03160000</td><td align="right">     115</td><td align="right">    65.2</td><td align="right">     7.8</td><td align="right">     0.9</td><td align="right">     0.9</td><td align="right">    24.3</td><td align="right">     0.9</td>
+		</tr><tr>
+			<td align="left">Wellesley</td><td align="right" style="mso-number-format:\@">03170000</td><td align="right">     385</td><td align="right">    96.1</td><td align="right">     2.3</td><td align="right">     0.8</td><td align="right">     0.0</td><td align="right">     0.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">West Boylston</td><td align="right" style="mso-number-format:\@">03220000</td><td align="right">      62</td><td align="right">    88.7</td><td align="right">     4.8</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     6.5</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">West Bridgewater</td><td align="right" style="mso-number-format:\@">03230000</td><td align="right">     112</td><td align="right">    97.3</td><td align="right">     0.9</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     1.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">West Springfield</td><td align="right" style="mso-number-format:\@">03320000</td><td align="right">     310</td><td align="right">    85.8</td><td align="right">     5.5</td><td align="right">     2.6</td><td align="right">     0.3</td><td align="right">     5.8</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Westborough</td><td align="right" style="mso-number-format:\@">03210000</td><td align="right">     259</td><td align="right">    96.5</td><td align="right">     0.8</td><td align="right">     0.4</td><td align="right">     0.4</td><td align="right">     1.9</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Westfield</td><td align="right" style="mso-number-format:\@">03250000</td><td align="right">     442</td><td align="right">    85.1</td><td align="right">     4.5</td><td align="right">     1.8</td><td align="right">     0.7</td><td align="right">     7.9</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Westford</td><td align="right" style="mso-number-format:\@">03260000</td><td align="right">     421</td><td align="right">    97.4</td><td align="right">     1.9</td><td align="right">     0.0</td><td align="right">     0.2</td><td align="right">     0.5</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Weston</td><td align="right" style="mso-number-format:\@">03300000</td><td align="right">     197</td><td align="right">    93.9</td><td align="right">     5.6</td><td align="right">     0.5</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Westport</td><td align="right" style="mso-number-format:\@">03310000</td><td align="right">      85</td><td align="right">    87.1</td><td align="right">     3.5</td><td align="right">     2.4</td><td align="right">     4.7</td><td align="right">     2.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Westwood</td><td align="right" style="mso-number-format:\@">03350000</td><td align="right">     212</td><td align="right">    97.6</td><td align="right">     1.9</td><td align="right">     0.0</td><td align="right">     0.5</td><td align="right">     0.0</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Weymouth</td><td align="right" style="mso-number-format:\@">03360000</td><td align="right">     536</td><td align="right">    87.1</td><td align="right">     5.4</td><td align="right">     0.0</td><td align="right">     1.7</td><td align="right">     5.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Whitman-Hanson</td><td align="right" style="mso-number-format:\@">07800000</td><td align="right">     314</td><td align="right">    92.4</td><td align="right">     5.1</td><td align="right">     0.6</td><td align="right">     0.3</td><td align="right">     1.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Whittier Regional Vocational Technical</td><td align="right" style="mso-number-format:\@">08850000</td><td align="right">     318</td><td align="right">    98.7</td><td align="right">     0.3</td><td align="right">     0.0</td><td align="right">     0.3</td><td align="right">     0.3</td><td align="right">     0.3</td>
+		</tr><tr class="eee">
+			<td align="left">Wilmington</td><td align="right" style="mso-number-format:\@">03420000</td><td align="right">     210</td><td align="right">    93.3</td><td align="right">     4.3</td><td align="right">     0.0</td><td align="right">     1.0</td><td align="right">     1.4</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Winchendon</td><td align="right" style="mso-number-format:\@">03430000</td><td align="right">      88</td><td align="right">    81.8</td><td align="right">     8.0</td><td align="right">     0.0</td><td align="right">     0.0</td><td align="right">    10.2</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Winchester</td><td align="right" style="mso-number-format:\@">03440000</td><td align="right">     319</td><td align="right">    96.9</td><td align="right">     1.9</td><td align="right">     0.3</td><td align="right">     0.3</td><td align="right">     0.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Winthrop</td><td align="right" style="mso-number-format:\@">03460000</td><td align="right">     149</td><td align="right">    86.6</td><td align="right">     4.0</td><td align="right">     2.7</td><td align="right">     1.3</td><td align="right">     5.4</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">Woburn</td><td align="right" style="mso-number-format:\@">03470000</td><td align="right">     354</td><td align="right">    87.9</td><td align="right">     5.1</td><td align="right">     0.3</td><td align="right">     1.1</td><td align="right">     5.6</td><td align="right">     0.0</td>
+		</tr><tr>
+			<td align="left">Worcester</td><td align="right" style="mso-number-format:\@">03480000</td><td align="right">    1795</td><td align="right">    81.9</td><td align="right">     9.5</td><td align="right">     2.0</td><td align="right">     0.7</td><td align="right">     5.8</td><td align="right">     0.0</td>
+		</tr><tr class="eee">
+			<td align="left">State Totals</td><td align="right" style="mso-number-format:\@">00000000</td><td align="right">   74045</td><td align="right">    87.5</td><td align="right">     5.7</td><td align="right">     1.1</td><td align="right">     0.8</td><td align="right">     4.9</td><td align="right">     0.0</td>
+		</tr>
+	</table>
+</div>
+
+                    
+                </td></tr>
+                </table>
+
+            </form>
+
+            <!--End Page Content-->
+        </div><!--close whiteboxright-->
+        <div class="clear"></div>
+    </div><!--close whitebox-->
+</div><!--close onecolumn-->
+
+
+
+</body>
+</html>
