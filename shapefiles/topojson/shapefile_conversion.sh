@@ -1,0 +1,1 @@
+topojson -o ./mass_towns.json -p -- ./shapefiles/towns_shp/TOWNS_POLYM.shp
