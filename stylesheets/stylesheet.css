@@ -1,3 +1,4 @@
-.town-border {
+#map_svg {
 	stroke: black;
+	fill: none;
 }
